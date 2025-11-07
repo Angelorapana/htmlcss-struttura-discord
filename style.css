@@ -17,14 +17,17 @@ header{
     justify-content: space-between; 
     align-items: center;
     width: 70%;
-    border: 4px dashed gray;
+    border: 2.5px dashed black;
+    padding: 0 20px;
+    background-color: orange;
 }
 
 .b{
     display: flex;
     padding: 0 20px;
-    border-left: 4px dashed gray;
-    border-right: 4px dashed gray;
+    gap: 1rem;
+    border-left: 2.5px dashed black;
+    border-right: 2.5px dashed  black;
 }
 
 
